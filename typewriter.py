@@ -31,3 +31,4 @@ if __name__ == "__main__":
            "text to test type writer function \nHere is some text to test type writer function"
 
     typing(text, 0.01)
+    
